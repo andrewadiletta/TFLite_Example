@@ -9,3 +9,4 @@ pip3 install numpy
 pip3 install tensorflow
 pip3 install keras
 ```
+For the full tutorial check out the video: https://www.youtube.com/watch?v=8VGcmjdxbtY
